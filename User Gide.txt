@@ -1,0 +1,11 @@
+1) Change the directory.
+
+2) Run this command---> pip install -r requirements.txt
+
+3) Run this command---> python human_activity_reco.py
+
+
+----------------------------------------------------------
+Test any mp4 video
+
+run this command---> python video.py -v example_activities.mp4
